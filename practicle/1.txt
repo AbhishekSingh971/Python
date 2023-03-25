@@ -1,0 +1,5 @@
+write a python script to count the number of words in a string without using len()
+insert an element at nth position in a list without using inbuilt function
+write a python script to platen a nested list
+write a python script to find a sum of all element present at odd index
+to convert a dic to a list and vise-versa

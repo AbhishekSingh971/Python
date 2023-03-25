@@ -1,0 +1,9 @@
+# import array as arr
+
+# a = arr.array([1,2,3],[4,5,6])
+# print()
+
+# write a program to create a array of five integer and 
+# append a new item at the end of array
+# write a program to insert an element in an array
+# write a python script to count the occcurence of an element x in a given list

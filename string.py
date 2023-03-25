@@ -14,7 +14,6 @@ print(str1.replace("this","It")) # It replaces all accrences of old string with 
 print(str1.isspace()) # It returns true if the string is containg white spaces
 print(str1.swapcase()) # it inverse the case for all character in a string
 print(str1.split(" ")) # it split the string according to the delimiter and return the list of strings
-
 s = "_"
 seq =("a","b","c")
 print(s.join(seq)) # It returns a string in which string elemenet of sequence have been join by str sequence
